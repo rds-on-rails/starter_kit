@@ -49,6 +49,9 @@ npm install web3
 3. **In 1st terminal window fork mainnet **
    </br>`ganache-cli -f <https://YOUR_ETH_PROVIDER>`
    </br>
+4. **Install money-legos**
+   </br>`npm install @studydefi/money-legos`
+   </br>
 
 ## 1️⃣  method, via contract:
 
